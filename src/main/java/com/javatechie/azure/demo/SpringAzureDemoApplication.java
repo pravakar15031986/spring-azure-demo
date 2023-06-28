@@ -11,7 +11,7 @@ public class SpringAzureDemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "Congrats ! your application deployed successfully in Azure Platform. !";
+		return "Congrats! Binaya Kumar Mohapatra you are successfully deployed the application in Azure Platform with different environment like AKS, Azure Spring Apps, and Apps services. !";
 	}
 
 	public static void main(String[] args) {

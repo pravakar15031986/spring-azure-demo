@@ -11,7 +11,7 @@ public class SpringAzureDemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "Congrats! Welcome to CSM Technologies pvt. presented by PRAVAKAR in Azure Platform with different environment like AKS, Azure Spring Apps, and Apps services. !";
+		return "Congrats! Welcome to CSM Technologies pvt. presented by PRAVAKAR in Azure nt like AKS, Azure Spring Apps, and Apps services. !";
 	}
 
 	public static void main(String[] args) {

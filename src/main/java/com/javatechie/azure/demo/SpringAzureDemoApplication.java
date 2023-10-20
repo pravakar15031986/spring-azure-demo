@@ -11,7 +11,7 @@ public class SpringAzureDemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "WELCOME TO CSM TECHNOLOGIES IN Azure DevOps automation Platform And Binaya Mahapatra is expert in Azure platform !";
+		return "WELCOME TO CSM TECHNOLOGIES IN Azure DevOps automation Platform And Kedarnath Mohanta is expert in Azure platform !";
 	}
 
 	public static void main(String[] args) {
